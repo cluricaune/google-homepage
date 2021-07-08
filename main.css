@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20%;
+}
+#googlelogo {
+    width: 30%;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+    top: 0;
+}
